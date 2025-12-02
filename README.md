@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>SQL and Relational Databases 101</td>
-    <td>LINK</td>
+    <td>https://courses.cognitiveclass.ai/certificates/cf2ddb94e1644bd9bbfad3e6ec9e41cd</td>
   </tr>
 </table>
 

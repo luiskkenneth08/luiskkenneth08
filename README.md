@@ -14,8 +14,8 @@
 
 <table class="profile-table">
   <tr>
-    <td width="20%">
-      <img src="mypicture.jpg" alt="Profile Photo" width="200"><br>
+    <td width="30%">
+      <img src="mypicture.jpg" alt="Profile Photo" width="500%"><br>
     </td>
     <td>
       <ul>

@@ -61,6 +61,10 @@
 <td>JAVA</td>
 <td>⭐⭐</td>
 </tr>
+  <tr>
+<td>SQL</td>
+<td>⭐⭐⭐</td>
+</tr>
 </table>
 </body>
 </html>

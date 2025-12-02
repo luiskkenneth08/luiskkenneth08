@@ -1,16 +1,66 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
 
-<!--
-**luiskkenneth08/luiskkenneth08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</head>
+<body>
 
-Here are some ideas to get you started:
+<h1 id="main-title">
+  <a>
+    Luis Kenneth's Profile
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table class="profile-table">
+  <tr>
+    <td width="20%">
+      <img src="mypicture.jpg" alt="Profile Photo" width="200"><br>
+    </td>
+    <td>
+      <ul>
+        <li><b>Name:</b> Luis Kenneth D. Fajardo</li>
+        <li><b>Course:</b> Bachelor of Science in Information Technology</li>
+        <li><b>School:</b> New Era University</li>
+        <li><b>Contact Number:</b> 0916 432 6568</li>
+        <li><b>Email:</b> luiskenneth.fajardo@neu.edu.ph</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>Certificates</h2>
+
+<table class="data-table">
+  <tr>
+    <th>Title</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>SQL and Relational Databases 101</td>
+    <td>LINK</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>Skillsets</h2>
+
+<table>
+<tr>
+<td>HTML</td>
+<td>⭐⭐⭐</td>
+</tr>
+<tr>
+<td>CSS</td>
+<td>⭐⭐⭐</td>
+</tr>
+<tr>
+<td>JAVA</td>
+<td>⭐⭐</td>
+</tr>
+</table>
+</body>
+</html>

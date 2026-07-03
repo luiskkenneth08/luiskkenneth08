@@ -51,10 +51,6 @@
     <td>https://www.mindluster.com/student/certificate/1092c451</td>
   </tr>
   <tr>
-    <td>UX design fundamentals</td>
-    <td>https://www.mindluster.com/student/certificate/b15c1eee</td>
-  </tr>
-  <tr>
     <td>UX design sur miro</td>
     <td>https://www.mindluster.com/student/certificate/afe96836</td>
   </tr>
